@@ -5,7 +5,7 @@
 # Data
 data/raw/*.json
 data/raw/*.csv
-data/processed/*.csv
+# data/processed/*.csv  # Uncomment to exclude processed data
 
 # Models
 models/*.pkl
