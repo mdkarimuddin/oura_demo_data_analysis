@@ -1,6 +1,6 @@
-# Oura Real Data Analysis: Advanced Analytics with Oura API
+# Oura Demo Data Analysis: Advanced Analytics with Oura API
 
-Advanced data science project using **real Oura Ring API data** for predictive health analytics and personalized insights.
+Advanced data science project using **Oura Ring API structure** for predictive health analytics and personalized insights. Works with **demo data** (no Oura Ring required) and ready for **real API data** when available.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![API](https://img.shields.io/badge/API-Oura%20v2-green.svg)
@@ -9,20 +9,22 @@ Advanced data science project using **real Oura Ring API data** for predictive h
 
 ## 🎯 Project Overview
 
-This project uses the **official Oura API v2** to fetch real user data and build advanced analytics:
+This project demonstrates **Oura API integration** and advanced analytics using **demo data** that matches the real Oura API v2 structure:
 
-1. **Real-time Data Fetching**: Connect to Oura API and retrieve sleep, activity, readiness data
-2. **Advanced Analytics**: Build predictive models on real user data
-3. **Personalized Insights**: User-specific recommendations and patterns
-4. **Multi-modal Analysis**: Combine sleep, activity, HRV, temperature data
+1. **Demo Data Generation**: Create realistic Oura data matching API structure (works without ring)
+2. **Real API Integration**: Ready to fetch real data when Oura Ring is available
+3. **Advanced Analytics**: Build predictive models on Oura data structure
+4. **Personalized Insights**: User-specific recommendations and patterns
+5. **Multi-modal Analysis**: Combine sleep, activity, HRV, temperature data
 
 ## 🔥 What Makes This Outstanding
 
-- ✅ **Uses Real Oura API** (not synthetic data!)
-- ✅ **Production API Integration** (OuraClient from hedgertronic/oura-ring)
-- ✅ **Advanced ML Models** (time series, forecasting, clustering)
-- ✅ **Personalized Analytics** (user-specific insights)
-- ✅ **Real-world Application** (actual wearable data)
+- ✅ **Works Without Oura Ring** (demo data mode - no token needed!)
+- ✅ **Real API Integration Ready** (OuraClient from hedgertronic/oura-ring)
+- ✅ **Demo Data Matches Real API** (same structure as actual Oura API v2)
+- ✅ **Advanced ML Models** (time series forecasting, anomaly detection)
+- ✅ **Personalized Analytics** (user-specific baselines and insights)
+- ✅ **Production-Ready Code** (error handling, validation, complete pipeline)
 
 ## 📊 Data Sources
 
