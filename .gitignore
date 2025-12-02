@@ -19,10 +19,10 @@ venv/
 .Python
 *.egg-info/
 
-# Outputs
-outputs/*.png
-outputs/*.json
-outputs/*.csv
+# Outputs (keeping some for portfolio)
+# outputs/*.png  # Uncomment to exclude images
+outputs/*.json  # Keep JSON results
+# outputs/*.csv  # Uncomment to exclude CSVs
 
 # OS
 .DS_Store
