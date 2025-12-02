@@ -1,0 +1,33 @@
+# Environment
+.env
+*.env
+
+# Data
+data/raw/*.json
+data/raw/*.csv
+data/processed/*.csv
+
+# Models
+models/*.pkl
+models/*.pt
+models/*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.Python
+*.egg-info/
+
+# Outputs
+outputs/*.png
+outputs/*.json
+outputs/*.csv
+
+# OS
+.DS_Store
+
+# API tokens (never commit!)
+*.token
+*_token.txt
+
