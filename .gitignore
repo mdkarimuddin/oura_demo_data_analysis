@@ -31,3 +31,12 @@ outputs/*.json  # Keep JSON results
 *.token
 *_token.txt
 
+
+# Internal documentation (not for public repo)
+*_STATUS.md
+*_SUMMARY.md
+*_PLAN.md
+*SETUP*.md
+*PUHTI*.md
+*GITHUB*.md
+*_STEPS.md
