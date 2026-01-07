@@ -3,6 +3,7 @@
 Advanced data science project using **Oura Ring API structure** for predictive health analytics and personalized insights. Works with **demo data** (no Oura Ring required) and ready for **real API data** when available.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![API](https://img.shields.io/badge/API-Oura%20v2-green.svg)
 ![ML](https://img.shields.io/badge/ML-Advanced%20Analytics-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
@@ -218,9 +219,6 @@ When using real Oura Ring data:
 
 ### Documentation
 - `README.md` - This file
-- `SETUP_GUIDE.md` - Detailed setup instructions
-- `PROJECT_PLAN.md` - Implementation roadmap
-- `PROJECT_STATUS.md` - Current project status
 
 ## 🔒 Security
 
@@ -240,7 +238,7 @@ Postdoctoral Researcher, University of Helsinki
 
 ## 📜 License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
